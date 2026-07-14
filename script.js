@@ -54,7 +54,7 @@ function performDOMOperations(){
     console.log(image.getAttribute("alt"));
 
     // 8. Change Image
-    image.src = "images/gamingmouse.jpg";
+    image.src = "gamingmouse.jpg";
 
     // 9. Check Alt Attribute
     console.log("Has Alt:");
